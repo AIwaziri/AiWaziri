@@ -73,7 +73,7 @@ Specializing in **web development**, I leverage a diverse toolkit of **framework
 
 ✅  **GitHub Extra Pins**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AiWaziri&repo=my_resume)](https://github.com/aiwaziri/my_resume)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aiwaziri&repo=my_resume)](https://github.com/aiwaziri/my_resume)
 
 </br>
 <p style="display: flex; justify-contect: space-between;">
