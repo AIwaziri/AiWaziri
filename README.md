@@ -44,7 +44,7 @@ Specializing in **web development**, I leverage a diverse toolkit of **framework
 
 🧐 **Knowledge of:**<br>
 
-`Responsive web design`, `DOM`, `Styled Components`, `React Router`, `Enzyme`, `AXIOS`, `3rd Party API`, `Object-Oriented Programming`, `data structures and algorithms`.
+`Responsive web design`, `Artificial Intelligence`, `Machine Learning`, `React Router`,  `IOS`, `3rd Party API`, `Object-Oriented Programming`, `data structures and algorithms`.
 
 
 🌍 **Deployment platforms:**<br>
@@ -73,7 +73,7 @@ Specializing in **web development**, I leverage a diverse toolkit of **framework
 
 ✅  **GitHub Extra Pins**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmad-sawalqeh&repo=my_resume)](https://github.com/aiwaziri/my_resume)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AiWaziri&repo=my_resume)](https://github.com/aiwaziri/my_resume)
 
 </br>
 <p style="display: flex; justify-contect: space-between;">
