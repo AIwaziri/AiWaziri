@@ -20,7 +20,7 @@ https://simpleicons.org/
 <!-- [![HitCount](https://hits.dwyl.com/AIWaziri/aiwaziri.svg?style=flat-square)](http://hits.dwyl.com/AIWaziri/aiwaziri) -->
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Abubakar Waziri</strong></samp></h2>
-<h3 align='center'><strong><a href="https://portforlio.aiwaziri.com/AiWaziri/" target="_blank">Portfolio🌐</a></strong></h3>
+<h3 align='center'><strong><a href="https://portforlio.aiwaziri.com" target="_blank">Portfolio🌐</a></strong></h3>
 <p align='center'>Freelancer | Full-stack JavaScript | AI developer | Web developer</p>
 
 <p align='left'> 📫 "Passionate about tech and life, I'm a self-taught Full Stack Python developer, constantly embracing new tools and technologies to craft dynamic web experiences.".</p>
