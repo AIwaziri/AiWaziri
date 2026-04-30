@@ -11,7 +11,7 @@ https://simpleicons.org/
 <br>
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-AiWaziri-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/realwaziri/)
-[![Mail](https://img.shields.io/badge/Outlook-Ai.waziri@outlook.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:Ai.waziri@outlook.com)
+[![Mail](https://img.shields.io/badge/Outlook-info@aiwaziri.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:info@aiwaziri.com)
 <br>
 [![Codepen](https://img.shields.io/badge/Codepen-AiWaziri-gray?logo=codepen&logoColor=white&labelColor=black)](https://codepen.io/AIwaziri)
 [![Codesandbox](https://img.shields.io/badge/Codesandbox-AiWaziri-gray?logo=codesandbox&logoColor=white&labelColor=black)](https://codesandbox.io/u/aiwaziri)
