@@ -1,32 +1,35 @@
-<!-- ================= CYBERPUNK HEADER ================= -->
+<!-- ================= DYNAMIC HEADER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f0f0f&height=180&section=header&text=AIWAZIRI%20FOUNDER%20SYSTEM&fontSize=30&fontColor=00ffcc" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=00FFCC&center=true&vCenter=true&width=700&lines=AI+Founder+%7C+System+Architect;Building+Acredixa+AI+Verification+Engine;SEMI-LOOP+Intelligent+Framework;Designing+Scalable+Digital+Infrastructure" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3500&color=00FFCC&center=true&vCenter=true&width=650&lines=AI+Founder+%7C+System+Architect;Building+Acredixa+Verification+Engine;SEMI-LOOP+AI+Framework+in+Progress;Designing+Scalable+Intelligent+Infrastructure" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ffcc&height=180&section=header&text=AIWAZIRI%20SYSTEMS&fontSize=30&fontColor=ffffff" />
 </p>
 
 ---
 
-# 🧠 1. FOUNDER IDENTITY
+## 🧠 About
 
-## AIWaziri Ecosystem
+AIWaziri is an AI systems initiative focused on building **intelligent infrastructure for identity, automation, and scalable digital platforms**.
 
-I build **AI-driven infrastructure systems** focused on:
-
-- 🧠 Identity verification (Acredixa)
-- ⚙️ Modular AI reasoning systems (SEMI-LOOP)
-- 🌍 Digital trust infrastructure
-- 🚀 Scalable SaaS platforms for emerging markets
-
-### 🎯 Mission
-To build intelligent systems that power **trust, automation, and decision-making at scale**.
+The work centers around designing systems that go beyond applications — toward **self-improving digital ecosystems**.
 
 ---
 
-# 📊 2. LIVE SYSTEM DASHBOARD
+## 🧭 Vision
+
+Building foundational AI systems for:
+
+- Identity verification and trust systems (Acredixa)
+- Modular AI reasoning architecture (SEMI-LOOP)
+- Automation systems for education and finance
+- Scalable SaaS infrastructure for emerging markets
+
+---
+
+## 📊 Live System Status
 
 <p align="center">
 
@@ -44,18 +47,18 @@ To build intelligent systems that power **trust, automation, and decision-making
 
 ---
 
-# 🚀 3. ACTIVE SYSTEMS (REAL ARCHITECTURE)
+## 🚀 Active Systems
 
 | System | Status | Description |
 |--------|--------|-------------|
-| Acredixa | 🟡 Building | AI credential verification engine |
-| SEMI-LOOP | 🟡 Research | Modular AI reasoning framework |
-| AIWaziri Hub | 🟢 Live | Portfolio ecosystem |
-| Automation Stack | 🟢 Active | Internal AI tools |
+| Acredixa | Building | AI credential verification engine |
+| SEMI-LOOP | Research | Modular AI reasoning framework |
+| AIWaziri Hub | Live | Portfolio ecosystem |
+| Automation Stack | Active | Internal AI tools |
 
 ---
 
-# 🛠️ 4. TECH STACK
+## 🛠️ Tech Stack
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
@@ -80,7 +83,7 @@ To build intelligent systems that power **trust, automation, and decision-making
 
 ---
 
-# 📌 5. FEATURED PROJECT
+## 📌 Featured Project
 
 <p align="center">
 
@@ -90,17 +93,17 @@ To build intelligent systems that power **trust, automation, and decision-making
 
 ---
 
-# 🧠 6. SYSTEM MINDSET
+## 🧠 Mindset
 
 - Systems over features  
-- AI-first architecture design  
-- Scalable engineering thinking  
+- AI-first architecture  
+- Scalable design thinking  
 - Real-world deployment focus  
-- Continuous iteration model  
+- Continuous iteration  
 
 ---
 
-# 🌍 7. DEPLOYMENT ECOSYSTEM
+## 🌍 Deployment
 
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?logo=githubpages)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify)
@@ -108,27 +111,14 @@ To build intelligent systems that power **trust, automation, and decision-making
 
 ---
 
-# 🧠 8. INVESTOR POSITIONING
+## ⚡ Closing Thought
 
-### Why this exists
-
-AIWaziri is building infrastructure for:
-
-- Digital identity verification
-- AI-powered decision systems
-- Automation for education & finance
-- Scalable SaaS ecosystems in Africa
+> “I don’t build apps. I build systems that evolve into ecosystems.”
 
 ---
 
-# ⚡ 9. QUOTE
-
-> “I don’t build apps. I build intelligent systems that scale into ecosystems.”
-
----
-
-# 🧩 10. FOOTER
+<!-- ================= FOOTER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:000000&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:000000&height=120&section=footer" />
 </p>
