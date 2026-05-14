@@ -25,7 +25,7 @@ AIWaziri is a **cyber-native AI systems architecture project** focused on buildi
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=AIwaziri&theme=tokyonight" width="48%" />
+<img src="https://streak-stats.demolab.com?user=AIwaziri&theme=tokyonight" width="70%" />
 
 </p>
 
