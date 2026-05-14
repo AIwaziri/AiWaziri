@@ -1,27 +1,27 @@
-<!-- ===================== HEADER BANNER ===================== -->
+<!-- ===================== HEADER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Abubakar%20Waziri&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Abubakar%20Waziri&fontSize=35&fontColor=ffffff" />
 </p>
 
 <!-- ===================== TYPING EFFECT ===================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+Engineer+in+Progress;Building+Smart+Web+Systems;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+Engineer+in+Progress;Building+Smart+Systems;Open+Source+Builder" />
 </p>
 
 ---
 
 ## 👋 About Me
 
-I am a **Full-Stack Developer** focused on building scalable web applications, intelligent systems, and AI-driven platforms.
+Full-Stack Developer focused on building **scalable systems, AI-powered platforms, and modern web applications**.
 
-I specialize in turning ideas into production-ready digital products with clean architecture and modern technologies.
+I specialize in turning ideas into production-ready digital products.
 
-- 🌐 Web Development (Frontend + Backend)
-- 🤖 Artificial Intelligence & Machine Learning
-- ⚙️ API Design & System Architecture
-- 🚀 Scalable SaaS & Platform Engineering
+- 🌐 Full-Stack Web Development  
+- 🤖 Artificial Intelligence Systems  
+- ⚙️ API & Backend Engineering  
+- 🚀 SaaS & Platform Development  
 
 ---
 
@@ -30,8 +30,8 @@ I specialize in turning ideas into production-ready digital products with clean 
 <p align="center">
 
 [![GitHub](https://img.shields.io/github/followers/AIwaziri?label=Follow&style=social)](https://github.com/AIwaziri)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/realwaziri/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?logo=firefox)](https://portfolio.aiwaziri.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/realwaziri/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?logo=firefox)](https://portfolio.aiwaziri.com)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:info@aiwaziri.com)
 
 </p>
@@ -40,22 +40,22 @@ I specialize in turning ideas into production-ready digital products with clean 
 
 ## 🛠️ Tech Stack
 
-### 💻 Frontend
+### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 
-### ⚙️ Backend
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express)
 
-### 🗄️ Database
+### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
-### 🧠 Tools & DevOps
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code)
@@ -65,44 +65,48 @@ I specialize in turning ideas into production-ready digital products with clean 
 
 ## 🚀 Current Focus
 
-- AI Credential Verification Systems
-- SEMI-LOOP AI Research Framework
-- Acredixa Platform Development
-- Smart Automation Tools for Education & Finance
+- AI Credential Verification System  
+- SEMI-LOOP AI Research Framework  
+- Acredixa Platform Development  
+- Smart Automation Systems  
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AIwaziri&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIwaziri&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AIwaziri&theme=tokyonight" width="60%" />
-</p>
-
----
-
-## 📌 Featured Projects
+## 📊 GitHub Stats (FIXED)
 
 <p align="center">
 
-[![Acredixa](https://github-readme-stats.vercel.app/api/pin/?username=AIwaziri&repo=my_resume&theme=tokyonight)](https://github.com/AIwaziri/my_resume)
+<img src="https://github-readme-stats.vercel.app/api?username=AIwaziri&show_icons=true&theme=tokyonight" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIwaziri&layout=compact&theme=tokyonight" width="48%" />
 
 </p>
 
 ---
 
-## 🧠 Skills & Expertise
+## 🔥 GitHub Streak
 
-- Full-Stack Web Development
-- REST & GraphQL APIs
-- AI Integration in Web Systems
-- Cloud Deployment & Hosting
-- Database Design & Optimization
-- System Architecture Design
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=AIwaziri&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AIwaziri&theme=tokyonight" />
+</p>
+
+---
+
+## 📌 Featured Project
+
+<p align="center">
+
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=AIwaziri&repo=my_resume&theme=tokyonight)](https://github.com/AIwaziri/my_resume)
+
+</p>
 
 ---
 
@@ -114,17 +118,9 @@ I specialize in turning ideas into production-ready digital products with clean 
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Quote
 
-> “I don’t just build websites — I build systems that think.”
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AIwaziri&theme=tokyonight" />
-</p>
+> “I don’t just build applications — I build intelligent systems that scale.”
 
 ---
 
