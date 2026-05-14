@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3500&color=00FFCC&center=true&vCenter=true&width=750&lines=AI+Founder+%7C+System+Architect;Building+Acredixa+AI+Verification+Engine;SEMI-LOOP+Intelligent+Framework;Designing+Scalable+Digital+Infrastructure;Status:+System+Online" />
 </p>
 
----
 
 ## 🧠 About AIWaziri
 
@@ -16,7 +15,7 @@ AIWaziri is a technology initiative focused on building **AI-driven systems, dig
 
 The goal is to move beyond applications and build **self-evolving intelligent systems**.
 
----
+
 
 ## 🧭 Vision
 
@@ -27,15 +26,14 @@ Building foundational AI systems for:
 - 🌍 Automation systems for education and finance
 - 🚀 Scalable SaaS and AI infrastructure
 
----
+
 
 ## 📊 Live System Dashboard
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AIwaziri&show_icons=true&theme=radical" width="48%" />
 
-<img src="https://streak-stats.demolab.com?user=AIwaziri&theme=radical" width="48%" />
+<img src="https://streak-stats.demolab.com?user=AIwaziri&theme=radical" width="100%" />
 
 </p>
 
@@ -45,7 +43,7 @@ Building foundational AI systems for:
 
 </p>
 
----
+
 
 ## 🚀 Active Systems
 
@@ -56,7 +54,7 @@ Building foundational AI systems for:
 | AIWaziri Hub | Live | Portfolio ecosystem |
 | Automation Stack | Active | Internal AI tools & systems |
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -81,17 +79,17 @@ Building foundational AI systems for:
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
 
----
+
 
 ## 📌 Featured Project
 
 <p align="center">
 
-[![Acredixa](https://github-readme-stats.vercel.app/api/pin/?username=AIwaziri&repo=my_resume&theme=radical)](https://github.com/AIwaziri/my_resume)
+[![Acredixa](https://github-readme-stats.vercel.app/api/pin/?username=AIwaziri&repo=Acredixa-v1&theme=radical)](https://github.com/AIwaziri/my_resume)
 
 </p>
 
----
+
 
 ## 🧠 Engineering Mindset
 
@@ -101,7 +99,7 @@ Building foundational AI systems for:
 - Automation-driven workflows  
 - Continuous iteration and improvement  
 
----
+
 
 ## 🌍 Deployment Ecosystem
 
@@ -109,13 +107,13 @@ Building foundational AI systems for:
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku)
 
----
+
 
 ## ⚡ Closing Statement
 
 > “I don’t build applications. I build intelligent systems that evolve into ecosystems.”
 
----
+
 
 <!-- ================= DYNAMIC FOOTER (MOTION MATCHED) ================= -->
 
