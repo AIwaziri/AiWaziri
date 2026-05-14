@@ -1,11 +1,11 @@
 <!-- ================= DYNAMIC HEADER (MOTION + BOOT SEQUENCE) ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ffcc&height=180&section=header&text=AIWAZIRI%20SYSTEMS&fontSize=30&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ffcc&height=180&section=header&text=AIWAZIRI%20LIMITED&fontSize=30&fontColor=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3500&color=00FFCC&center=true&vCenter=true&width=750&lines=AI+Founder+%7C+System+Architect;Building+Acredixa+AI+Verification+Engine;SEMI-LOOP+Intelligent+Framework;Designing+Scalable+Digital+Infrastructure;Status:+System+Online" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3500&color=00FFCC&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+System+Architect;Transformin+Dream+into+Algorithms;Building+Acredixa+AI+Verification+Engine;SEMI-LOOP+Intelligent+Framework;Designing+Scalable+Digital+Infrastructure;Status:+System+Online" />
 </p>
 
 
