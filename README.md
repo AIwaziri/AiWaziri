@@ -32,7 +32,9 @@ Building foundational AI systems for:
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AIwaziri&theme=radical" width="100%" />
 
 </p>
-
+<p align="center">
+[![GitHub Streak](https://streak-stats.demolab.com?user=aiwaziri&theme=dark)](https://git.io/streak-stats)
+</p>
 
 
 ## Active Systems
