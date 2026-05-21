@@ -33,7 +33,7 @@ Building foundational AI systems for:
 
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aiwaziri&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aiwaziri&theme=dark&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
 
 
 ## Active Systems
