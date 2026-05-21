@@ -1,10 +1,30 @@
-<!--
+<!-- ================= DYNAMIC HEADER (MOTION + BOOT SEQUENCE) ================= -->
 
-## Complete list of GitHub markdown emoji markup
-https://gist.github.com/rxaviers/7360908
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ffcc&height=180&section=header&text=AIWAZIRI%20LIMITED&fontSize=30&fontColor=ffffff" />
+</p>
 
-## Technologies Icons 
-https://simpleicons.org/
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com size=20&duration=3500&color=00FFCC&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+System+Architect;Transformin+Dream+into+Algorithms;Building+Acredixa+AI+Verification+Engine;SEMI LOOP+Intelligent+Framework;Designing+Scalable+Digital+Infrastructure;Status:+System+Online" />
+</p>
+
+
+## About AIWaziri
+
+AIWaziri is a technology initiative focused on building **AI-driven systems, digital identity infrastructure, and scalable automation platforms**.
+
+The goal is to move beyond applications and build **self-evolving intelligent systems**.
+
+
+
+## Vision
+
+Building foundational AI systems for:
+
+- 🧠 Identity verification and trust systems (Acredixa)
+- ⚙️ Modular AI reasoning architecture (SEMI-LOOP)
+- 🌍 Automation systems for education and finance
+- 🚀 Scalable SaaS and AI infrastructure
 
 
 -->
@@ -20,64 +40,83 @@ https://simpleicons.org/
 [![Codepen](https://img.shields.io/badge/Codewars-AiWaziri-maroon?logo=codewars&logoColor=maroon&labelColor=black)](https://www.codewars.com/users/AIwaziri)
 <!-- [![HitCount](https://hits.dwyl.com/AIWaziri/aiwaziri.svg?style=flat-square)](http://hits.dwyl.com/AIWaziri/aiwaziri) -->
 
-<h2 align='center'><samp><strong>Hi there 👋, I am Abubakar Waziri</strong></samp></h2>
-<h3 align='center'><strong><a href="https://portfolio.aiwaziri.com" target="_blank">Portfolio🌐</a></strong></h3>
-<p align='center'>Freelancer | Full-stack JavaScript | AI developer | Web developer</p>
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AIwaziri&theme=radical" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=aiwaziri&theme=dark" />
+</p>
 
-<p align='left'> 📫 "Passionate about tech and life, I'm a self-taught Full Stack Python developer, constantly embracing new tools and technologies to craft dynamic web experiences.".</p>
+## Active Systems
 
-Specializing in **web development**, I leverage a diverse toolkit of **frameworks** and **libraries** across both **frontend and backend** domains. With a keen eye for detail, I meticulously craft top-tier products that exceed expectations.
-
-💻 **Languages and Tools:** 🛠️<br>
-
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
-![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
+| System | Status | Description |
+|--------|--------|-------------|
+| Acredixa | Building | AI credential verification engine |
+| SEMI-LOOP | Research | Modular AI reasoning framework |
+| AIWaziri Hub | Live | Portfolio ecosystem |
+| Automation Stack | Active | Internal AI tools & systems |
 
 
-🧐 **Knowledge of:**<br>
 
-`Responsive web design`, `Artificial Intelligence`, `Machine Learning`, `React Router`,  `IOS`, `3rd Party API`, `Object-Oriented Programming`, `data structures and algorithms`.
+## Tech Stack
 
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 
-🌍 **Deployment platforms:**<br>
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express)
 
-<img alt="Github Pages" width="20px" height="20px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png" />![Github Pages](https://img.shields.io/badge/-Github%20Pages-000000?style=flat&logo=github-pages) ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&labelColor=430098) ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify&labelColor=000000)
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
-
-🚩 **Highlights:** <br>
-&nbsp;<img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' style="margin-top: 10px;" width="20px" height="20px">&nbsp;&nbsp;&nbsp;<span>Arctic Code Vault Contributor</span>
-
-
-📚 **Working on:** <br>
-
-![Github Actions](https://img.shields.io/badge/-Github%20Actions-000000?style=flat&logo=github-actions&logoColor=2088FF&labelColor=ffffff)
-![Json Web Tokens](https://img.shields.io/badge/-Json%20Web%20Tokens-000000?style=flat&logo=json-web-tokens&logoColor=ffffff&labelColor=000000)
-![Material-UI](https://img.shields.io/badge/-Material%20UI-000000?style=flat&logo=Material%20UI&logoColor=ffffff&labelColor=0081CB)
-
-
-🤓 **Interested:** <br>
-
-![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&labelColor=000000)
-![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP&logoColor=5466b8&labelColor=ffffff)
-![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress&labelColor=21759B)
-![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=ffffff&labelColor=FF2D20)
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
 
 
-✅  **GitHub Extra Pins**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aiwaziri&repo=my_resume)](https://github.com/aiwaziri/my_resume)
+## Featured Project
 
-</br>
-<p style="display: flex; justify-contect: space-between;">
-<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=Ahmad-Sawalqeh" />
-<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
+<p align="center">
+
+[![Acredixa](https://github-readme-stats.vercel.app/api/pin/?username=AIwaziri&repo=Acredixa-v1&theme=radical)](https://github.com/AIwaziri/my_resume)
+
+</p>
+
+
+
+
+## Engineering Mindset
+
+- Systems over features  
+- AI-first architecture design  
+- Scalability as default  
+- Automation-driven workflows  
+- Continuous iteration and improvement  
+
+
+## Deployment Ecosystem
+
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?logo=githubpages)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify)
+![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku)
+
+
+
+## Closing Statement
+
+> “I don’t build applications. I build intelligent systems that evolve into ecosystems.”
+
+
+
+<!-- ================= DYNAMIC FOOTER (MOTION MATCHED) ================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:000000&height=180&section=footer&text=SYSTEM%20ONLINE%20%7C%20AIWAZIRI%20ACTIVE&fontSize=22&fontColor=ffffff" />
 </p>
