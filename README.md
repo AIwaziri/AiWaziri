@@ -27,7 +27,7 @@ Building foundational AI systems for:
 - 🚀 Scalable SaaS and AI infrastructure
 
 
-<p align="center">
+<p>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AIwaziri&theme=radical"/>
 
