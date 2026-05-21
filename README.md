@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3500&color=00FFCC&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+System+Architect;Transformin+Dream+into+Algorithms;Building+Acredixa+AI+Verification+Engine;SEMI-LOOP+Intelligent+Framework;Designing+Scalable+Digital+Infrastructure;Status:+System+Online" />
 </p>
 
-
 ## About AIWaziri
 
 AIWaziri is a technology initiative focused on building **AI-driven systems, digital identity infrastructure, and scalable automation platforms**.
