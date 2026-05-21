@@ -88,7 +88,6 @@ Building foundational AI systems for:
 - Continuous iteration and improvement  
 
 
-
 ## Deployment Ecosystem
 
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?logo=githubpages)
