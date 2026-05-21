@@ -28,8 +28,8 @@ Building foundational AI systems for:
 
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AIwaziri&theme=radical" />
-  <img src="https://streak-stats.demolab.com?user=aiwaziri&theme=dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AIwaziri&theme=radical" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=aiwaziri&theme=dark" />
 </p>
 
 ## Active Systems
