@@ -30,10 +30,10 @@ Building foundational AI systems for:
 <p align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AIwaziri&theme=radical" width="100%" />
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=aiwaziri&theme=dark)](https://git.io/streak-stats)
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aiwaziri&theme=dark)](https://git.io/streak-stats)
+
 
 
 ## Active Systems
