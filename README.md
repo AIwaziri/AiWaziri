@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3500&color=00FFCC&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+System+Architect;Transformin+Dream+into+Algorithms;Building+Acredixa+AI+Verification+Engine;SEMI-LOOP+Intelligent+Framework;Designing+Scalable+Digital+Infrastructure;Status:+System+Online" />
+  <img src="https://readme-typing-svg.herokuapp.com size=20&duration=3500&color=00FFCC&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+System+Architect;Transformin+Dream+into+Algorithms;Building+Acredixa+AI+Verification+Engine;SEMI LOOP+Intelligent+Framework;Designing+Scalable+Digital+Infrastructure;Status:+System+Online" />
 </p>
 
 
@@ -28,12 +28,9 @@ Building foundational AI systems for:
 
 
 <p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AIwaziri&theme=radical" width="100%" />
-
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AIwaziri&theme=radical" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=aiwaziri&theme=dark" />
 </p>
-
-
 
 ## Active Systems
 
@@ -81,6 +78,7 @@ Building foundational AI systems for:
 
 
 
+
 ## Engineering Mindset
 
 - Systems over features  
@@ -88,7 +86,6 @@ Building foundational AI systems for:
 - Scalability as default  
 - Automation-driven workflows  
 - Continuous iteration and improvement  
-
 
 
 ## Deployment Ecosystem
