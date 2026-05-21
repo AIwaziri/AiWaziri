@@ -27,6 +27,19 @@ Building foundational AI systems for:
 - 🚀 Scalable SaaS and AI infrastructure
 
 
+-->
+📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/AIwaziri?label=Follow%20Me&style=social)](https://github.com/AIwaziri)
+<br>
+<br>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-AiWaziri-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/realwaziri/)
+[![Mail](https://img.shields.io/badge/Outlook-Ai.waziri@outlook.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:Ai.waziri@outlook.com)
+<br>
+[![Codepen](https://img.shields.io/badge/Codepen-AiWaziri-gray?logo=codepen&logoColor=white&labelColor=black)](https://codepen.io/AIwaziri)
+[![Codesandbox](https://img.shields.io/badge/Codesandbox-AiWaziri-gray?logo=codesandbox&logoColor=white&labelColor=black)](https://codesandbox.io/u/aiwaziri)
+[![HackerRank](https://img.shields.io/badge/HackerRank-AiWaziri-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/aiwaziri)
+[![Codepen](https://img.shields.io/badge/Codewars-AiWaziri-maroon?logo=codewars&logoColor=maroon&labelColor=black)](https://www.codewars.com/users/AIwaziri)
+<!-- [![HitCount](https://hits.dwyl.com/AIWaziri/aiwaziri.svg?style=flat-square)](http://hits.dwyl.com/AIWaziri/aiwaziri) -->
+
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AIwaziri&theme=radical" />
   <img width="49%" src="https://streak-stats.demolab.com?user=aiwaziri&theme=dark" />
