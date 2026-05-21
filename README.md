@@ -27,14 +27,10 @@ Building foundational AI systems for:
 - 🚀 Scalable SaaS and AI infrastructure
 
 
-<p>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AIwaziri&theme=radical"/>
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AIwaziri&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=aiwaziri&theme=dark" />
 </p>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=aiwaziri&theme=dark)](https://git.io/streak-stats)
-
 
 ## Active Systems
 
