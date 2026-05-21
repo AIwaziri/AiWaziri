@@ -9,7 +9,7 @@
 </p>
 
 
-## 🧠 About AIWaziri
+## About AIWaziri
 
 AIWaziri is a technology initiative focused on building **AI-driven systems, digital identity infrastructure, and scalable automation platforms**.
 
@@ -17,7 +17,7 @@ The goal is to move beyond applications and build **self-evolving intelligent sy
 
 
 
-## 🧭 Vision
+## Vision
 
 Building foundational AI systems for:
 
@@ -35,7 +35,7 @@ Building foundational AI systems for:
 
 
 
-## 🚀 Active Systems
+## Active Systems
 
 | System | Status | Description |
 |--------|--------|-------------|
@@ -46,7 +46,7 @@ Building foundational AI systems for:
 
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
@@ -71,7 +71,7 @@ Building foundational AI systems for:
 
 
 
-## 📌 Featured Project
+## Featured Project
 
 <p align="center">
 
@@ -81,7 +81,7 @@ Building foundational AI systems for:
 
 
 
-## 🧠 Engineering Mindset
+## Engineering Mindset
 
 - Systems over features  
 - AI-first architecture design  
@@ -91,7 +91,7 @@ Building foundational AI systems for:
 
 
 
-## 🌍 Deployment Ecosystem
+## Deployment Ecosystem
 
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?logo=githubpages)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify)
@@ -99,7 +99,7 @@ Building foundational AI systems for:
 
 
 
-## ⚡ Closing Statement
+## Closing Statement
 
 > “I don’t build applications. I build intelligent systems that evolve into ecosystems.”
 
