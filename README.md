@@ -1,109 +1,124 @@
-<!-- ================= DYNAMIC HEADER (MOTION + BOOT SEQUENCE) ================= -->
+<!-- ================= CYBER WELCOME HEADER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ffcc&height=180&section=header&text=AIWAZIRI%20LIMITED&fontSize=30&fontColor=ffffff" />
+  <img src="https://github.com/sindresorhus/sindresorhus/blob/main/welcome-header.gif?raw=true"
+    alt="Welcome Header"
+    width="300" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com size=20&duration=3500&color=00FFCC&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+System+Architect;Transformin+Dream+into+Algorithms;Building+Acredixa+AI+Verification+Engine;SEMI LOOP+Intelligent+Framework;Designing+Scalable+Digital+Infrastructure;Status:+System+Online" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&lines=ʜɪ,+ɪ'ᴍ+ᴀʙᴜʙᴀᴋᴀʀ+ᴡᴀᴢɪʀɪ;ᴀɪ+ꜰᴏᴜɴᴅᴇʀ+%7C+ꜱʏꜱᴛᴇᴍ+ᴀʀᴄʜɪᴛᴇᴄᴛ;ʙᴜɪʟᴅɪɴɢ+ᴀᴄʀᴇᴅɪxᴀ+ᴀɪ+ᴇɴɢɪɴᴇ;ꜱᴇᴍɪ-ʟᴏᴏᴘ+ɪɴᴛᴇʟʟɪɢᴇɴᴛ+ꜰʀᴀᴍᴇᴡᴏʀᴋ" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80" />
+</p>
 
-## About AIWaziri
+---
 
-AIWaziri is a technology initiative focused on building **AI-driven systems, digital identity infrastructure, and scalable automation platforms**.
+<div align="center">
+  <img src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif" width="100%" height="220" />
+</div>
 
-The goal is to move beyond applications and build **self-evolving intelligent systems**.
+---
 
+<img align="right"
+  src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"
+  width="120" />
 
+---
 
-## Vision
+# 💫 ABOUT ME — AIWAZIRI
 
-Building foundational AI systems for:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=AI+Founder+%7C+Full-Stack+Engineer+%7C+System+Architect;Building+AI+Systems+%26+Digital+Infrastructure;Acredixa+AI+Verification+Engine;SEMI-LOOP+Computer+Vision+Framework;Automation+%7C+LLMs+%7C+Scalable+Systems" />
+</p>
 
-- 🧠 Identity verification and trust systems (Acredixa)
+---
+
+## 🧠 WHO I AM
+
+I am **Abubakar Waziri**, founder of **AIWaziri**, building next-generation AI systems focused on:
+
+- 🧠 AI identity verification systems (Acredixa)
 - ⚙️ Modular AI reasoning architecture (SEMI-LOOP)
-- 🌍 Automation systems for education and finance
-- 🚀 Scalable SaaS and AI infrastructure
+- 🌍 Automation + AI infrastructure systems
+- 🚀 Scalable full-stack AI platforms
 
+---
+
+## 🌐 SOCIALS
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AIwaziri&theme=radical" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=aiwaziri&theme=dark" />
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-00FFCC?logo=linkedin&logoColor=black" />
+  </a>
+  <a href="mailto:info@aiwaziri.com">
+    <img src="https://img.shields.io/badge/Email-00FFCC?logo=gmail&logoColor=black" />
+  </a>
+  <a href="https://github.com/AIwaziri">
+    <img src="https://img.shields.io/badge/GitHub-00FFCC?logo=github&logoColor=black" />
+  </a>
 </p>
 
-## Active Systems
+---
 
-| System | Status | Description |
-|--------|--------|-------------|
-| Acredixa | Building | AI credential verification engine |
-| SEMI-LOOP | Research | Modular AI reasoning framework |
-| AIWaziri Hub | Live | Portfolio ecosystem |
-| Automation Stack | Active | Internal AI tools & systems |
-
-
-
-## Tech Stack
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?logo=express)
-
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
-
-
-
-## Featured Project
+# 💻 TECH STACK — AI SYSTEM ENGINEER
 
 <p align="center">
 
-[![Acredixa](https://github-readme-stats.vercel.app/api/pin/?username=AIwaziri&repo=Acredixa-v1&theme=radical)](https://github.com/AIwaziri/my_resume)
+<!-- Core -->
+<img src="https://img.shields.io/badge/Python-000000?logo=python&logoColor=00FFCC" />
+<img src="https://img.shields.io/badge/JavaScript-000000?logo=javascript&logoColor=00FFCC" />
+<img src="https://img.shields.io/badge/TypeScript-000000?logo=typescript&logoColor=00FFCC" />
+
+<!-- AI -->
+<img src="https://img.shields.io/badge/AI-LLMs-000000?logo=openai&logoColor=00FFCC" />
+<img src="https://img.shields.io/badge/Computer%20Vision-000000?logo=opencv&logoColor=00FFCC" />
+
+<!-- Backend -->
+<img src="https://img.shields.io/badge/Node.js-000000?logo=node.js&logoColor=00FFCC" />
+<img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=00FFCC" />
+
+<!-- Database -->
+<img src="https://img.shields.io/badge/MongoDB-000000?logo=mongodb&logoColor=00FFCC" />
 
 </p>
 
+---
 
-
-
-## Engineering Mindset
-
-- Systems over features  
-- AI-first architecture design  
-- Scalability as default  
-- Automation-driven workflows  
-- Continuous iteration and improvement  
-
-
-## Deployment Ecosystem
-
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?logo=githubpages)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify)
-![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku)
-
-
-
-## Closing Statement
-
-> “I don’t build applications. I build intelligent systems that evolve into ecosystems.”
-
-
-
-<!-- ================= DYNAMIC FOOTER (MOTION MATCHED) ================= -->
+# 🚀 SYSTEM DASHBOARD
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:000000&height=180&section=footer&text=SYSTEM%20ONLINE%20%7C%20AIWAZIRI%20ACTIVE&fontSize=22&fontColor=ffffff" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=AIwaziri&show_icons=true&theme=tokyonight" width="48%" />
+
+<img src="https://streak-stats.demolab.com?user=AIwaziri&theme=tokyonight" width="48%" />
+
 </p>
+
+---
+
+# 🧠 CORE PROJECTS
+
+### 🧠 Acredixa AI
+AI-powered identity verification system.
+
+### ⚙️ SEMI-LOOP Framework
+Modular AI architecture for computer vision and reasoning systems.
+
+### 🌍 AIWaziri Hub
+Central ecosystem connecting all AI projects and services.
+
+### 🤖 Automation Systems
+AI-driven workflow and productivity systems.
+
+---
+
+# 🏅 SYSTEM STATUS
+
+```txt
+AIWaziri Core: ONLINE
+Acredixa Engine: BUILDING
+SEMI-LOOP Framework: ACTIVE RESEARCH
+Automation Stack: RUNNING
