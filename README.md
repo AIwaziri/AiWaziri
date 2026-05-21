@@ -32,13 +32,6 @@ Building foundational AI systems for:
 
 <p align="center">
 
-
-<img src="https://streak-stats.demolab.com?user=AIwaziri&theme=radical" width="100%" />
-
-</p>
-
-<p align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AIwaziri&theme=radical" width="100%" />
 
 </p>
