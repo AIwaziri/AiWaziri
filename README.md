@@ -7,7 +7,15 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com size=20&duration=3500&color=00FFCC&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+System+Architect;Transformin+Dream+into+Algorithms;Building+Acredixa+AI+Verification+Engine;SEMI LOOP+Intelligent+Framework;Designing+Scalable+Digital+Infrastructure;Status:+System+Online" />
 </p>
+</td>
 
+<p align="center">
+  <img
+    src="https://github.com/sindresorhus/sindresorhus/blob/main/welcome-header.gif?raw=true"
+    alt="Welcome Header"
+    width="300"
+  />
+</p>
 
 ## About AIWaziri
 
