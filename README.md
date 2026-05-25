@@ -112,15 +112,6 @@ Building foundational AI systems for:
   </tr>
 </table>
 
-## Engineering Mindset
-
-- Systems over features  
-- AI-first architecture design  
-- Scalability as default  
-- Automation-driven workflows  
-- Continuous iteration and improvement  
-
-
 # 🏅 Professional Certifications
 
 ### Artificial Intelligence & GenAI
