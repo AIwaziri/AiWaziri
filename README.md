@@ -30,7 +30,7 @@ AIWaziri is a technology initiative focused on building AI-driven systems, digit
 
 The goal is to move beyond applications and build **self-evolving intelligent systems**.
 
-<h2 align="center">Tech Stack — Generative AI Developer & Data Analyst <img height="40"  src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" style="vertical-align: middle; max-height: 40px; display: inline-block;"></h2>
+<h2 align="center">Tech Stack — AI/ML Developer & Analyst <img height="40"  src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" style="vertical-align: middle; max-height: 40px; display: inline-block;"></h2>
 
 **Vision**
 
